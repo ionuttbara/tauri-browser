@@ -1,17 +1,17 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "electricon-web",
+  "productName": "galeria-browser",
   "version": "12.0.26120",
-  "identifier": "com.electricon.webhost",
+  "identifier": "com.gallery.browser",
   "build": {
-    "devUrl": "https://www.bing.com/webmasters/",
+    "devUrl": "https://www.google.com/",
     "frontendDist": "../dist/wwwroot"
   },
   "app": {
     "withGlobalTauri": false,
     "windows": [
       {
-        "title": "Bing Webmasters - Electricon",
+        "title": "Google",
         "width": 1280,
         "height": 720
       }
